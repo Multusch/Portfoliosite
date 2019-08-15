@@ -1,0 +1,53 @@
+html {
+}
+
+.color-primary {
+  color: #2d3c49;
+}
+
+.color-gray {
+  color: #7d97ad;
+}
+
+.color-accent {
+  color: #02b3e4;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-blue {
+  color: #02346F;
+}
+.image-logo {
+  width: 200px;
+  padding: 1em;
+}
+
+.image-full {
+  width: 100%;
+}
+
+.hr-bold {
+  border-width: 3px;
+}
+.font-header {
+  font-family: 'Ultra', serif;
+  font-size: 2em;
+}
+.font-subheadline {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-weight: 16px;
+}
+.font-uppercase {
+  text-transform: uppercase;
+
+}
